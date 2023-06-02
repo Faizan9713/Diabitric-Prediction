@@ -1,1 +1,1 @@
-# Diabitric-Prediction
+# Diabitic-Prediction
